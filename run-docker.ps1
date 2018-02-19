@@ -1,2 +1,1 @@
-docker rm pandoc-container
-docker run -i -t -v ${PWD}:/workdir -w /workdir --name pandoc-container tewarid/pandoc ./run-pandoc.sh
+docker run --rm -t -v ${PWD}:/workdir -w /workdir tewarid/pandoc ./run-pandoc.sh
