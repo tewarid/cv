@@ -19,7 +19,7 @@ Development of guidance and tools for developers of critical communication appli
 #### Intelligent Middleware
 
 - Intelligent Middleware Device Simulator
-  - C#, ONC RPC, SMTP, WebSockets, Windows Forms, XMPP
+  - C#, HTTP, ONC RPC, SMTP, WebSocket, Windows Forms, XMPP
 - Intelligent Middleware REST API Test Tool
   - C#, HTTP, WebSocket, Windows Forms, XMPP
 - Sample Applications for Intelligent Middleware
@@ -163,11 +163,10 @@ Development of ProVision™ shovel machine guidance system
 
 # Hobbies
 
-- Blogging
 - Making hardware
 - Photography
 - Reading Sci-Fi
-- Watching TV
+- Writing
 
 # Languages
 
