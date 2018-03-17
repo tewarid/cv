@@ -1,0 +1,2 @@
+# prevent git from changing line ending to CRLF - especially bash scripts
+* -text
