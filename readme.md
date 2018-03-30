@@ -1,6 +1,6 @@
 # Resume
 
-Thank you for the interest in my [Resume](resume.md). Please get in touch if you need any details or references via devendra.tewari@gmail.com.
+Thank you for the interest in my [résumé](resume.md). Please get in touch via devendra.tewari@gmail.com, if you need any details or references.
 
 ## PDF Format
 
