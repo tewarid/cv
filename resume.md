@@ -4,17 +4,22 @@
 
 ### Motorola Solutions
 
-Development of guidance and tools for developers of critical communication applications based on land mobile radio and broadband systems
+#### Emergency Service Network (ESN)
+
+- Interim solution to provision Subscriber Identity Modules (SIMs) on UK’s ESN
+  - C#, Entity Framework 6, HTTP/S, SOAP, SOAP UI, SQL Server, WPF
 
 #### Documentation as Code
 
-- Word to Markdown
-- Pandoc automation using Docker
+- Word to Markdown proof of concept
+  - Custom $LaTeX$ template
+  - Sequence charts
+  - Docker image with Mermaid.js, Pandoc, and TeX Live
 
 #### WAVE 5000
 
 - Third-party application developer support
-- Wireshark Dissectors in Lua
+- Thin Client Protocol dissector in Lua for Wireshark
 
 #### Intelligent Middleware
 
@@ -22,9 +27,9 @@ Development of guidance and tools for developers of critical communication appli
   - C#, HTTP, ONC RPC, SMTP, WebSocket, Windows Forms, XMPP
 - Intelligent Middleware REST API Test Tool
   - C#, HTTP, WebSocket, Windows Forms, XMPP
-- Sample Applications for Intelligent Middleware
+- Sample code for Intelligent Middleware and WAVE 7000
   - Android, Bluetooth SPP, C#, Java, OAUTH 2, Swift, WebSocket, Windows Forms, iOS
-- Speaker at APPFORUM conferences and developer workshops in Americas and EMEA
+- Speaker at APPFORUM conferences and developer workshops in the Americas and EMEA
 - Brazilian Army
   - Django, Python, SIP, WebRTC
 
@@ -45,29 +50,29 @@ Development of guidance and tools for developers of critical communication appli
   - C#, TotalPhase Beagle USB Analyzer, Windows Forms
 - Remote Display Control Sample Application
   - C#, Run-Length Encoding, Windows Forms
-- Wireshark Dissectors in Lua
+- Protocol dissectors in Lua for Wireshark
 
 #### MOTOTRBO™
 
 - Third-party application developer support
-- Speaker at APPFORUM conferences in Americas and EMEA
+- Speaker at APPFORUM conferences in the Americas and EMEA
 - System Design Tools
   - C#, CSS, HTML, JavaScript, Windows Forms
-- Sample Applications
+- Sample code
   - Arduino, Bluetooth LE, C#, CSS, HTML5, JavaScript, Linux, RFID, Raspberry Pi, Ruby, Sensors, Windows Forms
 - Generic Option Board Fixture
-  - Altium Designer
-- Sample Applications for the Generic Option Board
+  - Altium PCB Designer
+- Sample code for the Generic Option Board
   - Atmel AVR32, C, C#, FreeRTOS, Windows Forms
-- Configuration Advisor
+- Configuration Advisor Tool
   - C#, Windows Forms
 - Generic Option Board Flash Tool
   - C#, Windows Forms
 - Option Board Capture Tool
   - C#, C++, Saleae Logic Analyzer, Windows Forms
-- Site Survey
+- Site Survey Tool
   - Android, C#, Windows Forms, Xamarin
-- Wireshark Dissectors in Lua
+- Protocol dissectors in Lua for Wireshark
 
 ### Fiat Chrysler
 
@@ -102,7 +107,7 @@ Development of ProVision™ shovel machine guidance system
 
 ## Senior Software Engineer at CESAR (2002 to 2007)
 
-- Push-To-Talk over Cellular (PoC) client for Samsung
+- Push-To-Talk over Cellular (PoC) client for Samsung, Campinas
   - ARM, C, CVS, Eclipse, IMS, Java, Linux, Mantis Bug Tracker, OMA PoC, SQL
 
 - J2ME Games for LGE
