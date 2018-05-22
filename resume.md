@@ -7,7 +7,7 @@
 #### Emergency Service Network (ESN)
 
 - Interim solution to provision Subscriber Identity Modules (SIMs) on UK’s ESN
-  - C#, Entity Framework 6, HTTP/S, SOAP, SOAP UI, SQL Server, WPF
+  - Active Directory, C#, Entity Framework 6, Git, GitLab, HTTP/S, SOAP 1.1, SoapUI, SQL Server, TLS 1.2, WCF, WPF
 
 #### Documentation as Code
 
