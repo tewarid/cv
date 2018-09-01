@@ -4,6 +4,13 @@
 
 ### Motorola Solutions
 
+#### WAVE 5000 / ONCLOUD
+
+- Data MOTOTRBO™ Network Interface Service integration
+  - C#, HTTP/S, IIS, openSIPS, SIP, TCP/TLS, UDP, WAVE 5000, WPF
+- Third-party application developer support
+- Thin Client Protocol dissector in Lua for Wireshark
+
 #### Emergency Service Network (ESN)
 
 - Interim solution to provision Subscriber Identity Modules (SIMs) on UK’s ESN
@@ -12,14 +19,9 @@
 #### Documentation as Code
 
 - Word to Markdown proof of concept
-  - Custom $LaTeX$ template
+  - Custom $LaTeX$ template for Pandoc
   - Sequence charts
   - Docker image with Mermaid.js, Pandoc, and TeX Live
-
-#### WAVE 5000
-
-- Third-party application developer support
-- Thin Client Protocol dissector in Lua for Wireshark
 
 #### Intelligent Middleware
 
@@ -108,7 +110,7 @@ Development of ProVision™ shovel machine guidance system
 ## Senior Software Engineer at CESAR (2002 to 2007)
 
 - Push-To-Talk over Cellular (PoC) client for Samsung, Campinas
-  - ARM, C, CVS, Eclipse, IMS, Java, Linux, Mantis Bug Tracker, OMA PoC, SQL
+  - ARM, C, CVS, Eclipse, IMS, Java, Linux, Mantis Bug Tracker, OMA PoC, SIP/SDP, SQL, XML, XCAP
 
 - J2ME Games for LGE
   - CVS, Eclipse, Java, Tile Studio
@@ -154,7 +156,7 @@ Development of ProVision™ shovel machine guidance system
 ## Software Engineer at Tata Infotech/Unisys (1996 to 1998)
 
 - Year 2000 consultancy at Bancafe, Bogota
-- Year 2000 renovation at Bompreco, Recife
+- Year 2000 renovation at Bompreço, Recife
   - COBOL, LINC II, Unisys A Series
 - Year 2000 renovation at Toysrus, New Jersey
   - ALGOL, C, COBOL, LINC II, Unisys A Series, XGEN
@@ -166,18 +168,11 @@ Development of ProVision™ shovel machine guidance system
 - **[Machine Learning](#machine-learning)** June to July 2017, by Stanford University on Coursera
 - **Bachelor of Engineering in Electronics** 1992 to 1996, at Ramrao Adik Institute of Technology, University of Mumbai
 
-# Hobbies
-
-- Making hardware
-- Photography
-- Reading Sci-Fi
-- Writing
-
 # Languages
 
-- [Portuguese](#brazilian-portuguese-proficiency)
 - English
 - Hindi
+- [Portuguese](#brazilian-portuguese-proficiency)
 
 # Attachments
 
