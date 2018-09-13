@@ -163,6 +163,7 @@ Development of ProVision™ shovel machine guidance system
 
 # Education and Courses
 
+- **WAVE Certified Integration Engineer** 2018, Motorola Solution
 - **Xamarin Forms: Build Native Cross-platform Apps with C#** 2018, Udemy
 - **Algorithms I** 2017, by Princeton University on Coursera
 - **[Machine Learning](#machine-learning)** June to July 2017, by Stanford University on Coursera
