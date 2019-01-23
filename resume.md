@@ -1,31 +1,31 @@
+# Contacts
+
+- [Email](mailto:devendra.tewari@gmail.com)
+- [GitHub](https://github.com/tewarid)
+- [LinkedIn](https://www.linkedin.com/in/tewarid/)
+- [Twitter](https://twitter.com/tewaridk)
+
 # Work Experience
 
 ## Software Engineering Specialist at CESAR (2010 to Present)
 
 ### Motorola Solutions
 
-#### WAVE 5000 / ONCLOUD
+#### UK Emergency Service Network
 
-- Data MOTOTRBO™ Network Interface Service integration
+- Interim Provisioning Solution (IPS)
+  - Active Directory, C#, Entity Framework 6, Git, GitLab, HTTP/S, Kodiak MCPTT, LDAP, SOAP 1.1, SoapUI, SQL Server, TLS 1.2, WCF, WPF
+
+#### WAVE PTT
+
+- Integration with Data MOTOTRBO Network Interface Service
   - C#, HTTP/S, IIS, openSIPS, SIP, TCP/TLS, UDP, WAVE 5000, WPF
-- Third-party application developer support
 - Thin Client Protocol dissector in Lua for Wireshark
-
-#### Emergency Service Network (ESN)
-
-- Interim solution to provision Subscriber Identity Modules (SIMs) on UK’s ESN
-  - Active Directory, C#, Entity Framework 6, Git, GitLab, HTTP/S, SOAP 1.1, SoapUI, SQL Server, TLS 1.2, WCF, WPF
-
-#### Documentation as Code
-
-- Word to Markdown proof of concept
-  - Custom $LaTeX$ template for Pandoc
-  - Sequence charts
-  - Docker image with Mermaid.js, Pandoc, and TeX Live
+- Third-party application developer support
 
 #### Intelligent Middleware
 
-- Intelligent Middleware Device Simulator
+- Intelligent Middleware ASTRO and MOTOTRBO Device Simulator
   - C#, HTTP, ONC RPC, SMTP, WebSocket, Windows Forms, XMPP
 - Intelligent Middleware REST API Test Tool
   - C#, HTTP, WebSocket, Windows Forms, XMPP
@@ -35,46 +35,51 @@
 - Brazilian Army
   - Django, Python, SIP, WebRTC
 
-#### APX™
+#### Documentation as Code
 
-- Third-party application developer support
+- Word to Markdown proof of concept
+  - Custom $LaTeX$ template for Pandoc
+  - Sequence charts
+  - Docker image with Mermaid.js, Pandoc, and TeX Live
+
+#### ASTRO P25
+
 - Option Board Reference Hardware and Software
   - ATmega32U4, Altium Designer, C, C#, Fritzing, Windows Forms, Wiring
 - Option Board Capture Tool
   - C#, TotalPhase Beagle USB Analyzer, Windows Forms
-- Wireshark Dissectors in Lua
-
-#### DIMETRA™
-
+- Protocol dissectors in Lua for Wireshark
 - Third-party application developer support
-- Speaker at APPFORUM conferences in EMEA
+
+#### TETRA
+
 - TETRA PEI Capture Tool
   - C#, TotalPhase Beagle USB Analyzer, Windows Forms
 - Remote Display Control Sample Application
   - C#, Run-Length Encoding, Windows Forms
 - Protocol dissectors in Lua for Wireshark
-
-#### MOTOTRBO™
-
+- Speaker at APPFORUM conferences in EMEA
 - Third-party application developer support
-- Speaker at APPFORUM conferences in the Americas and EMEA
-- System Design Tools
-  - C#, CSS, HTML, JavaScript, Windows Forms
-- Sample code
-  - Arduino, Bluetooth LE, C#, CSS, HTML5, JavaScript, Linux, RFID, Raspberry Pi, Ruby, Sensors, Windows Forms
-- Generic Option Board Fixture
-  - Altium PCB Designer
-- Sample code for the Generic Option Board
-  - Atmel AVR32, C, C#, FreeRTOS, Windows Forms
+
+#### MOTOTRBO
+
 - Configuration Advisor Tool
   - C#, Windows Forms
+- System Design Tools
+  - C#, CSS, HTML, JavaScript, Windows Forms
 - Generic Option Board Flash Tool
   - C#, Windows Forms
 - Option Board Capture Tool
   - C#, C++, Saleae Logic Analyzer, Windows Forms
+- Generic Option Board Fixture
+  - Altium PCB Designer
 - Site Survey Tool
   - Android, C#, Windows Forms, Xamarin
 - Protocol dissectors in Lua for Wireshark
+- Sample Applications
+  - Arduino, Atmel AVR32, Bluetooth LE, C, C++, C#, CSS, FreeRTOS, HTML5, JavaScript, Linux, RFID, Raspberry Pi, Ruby, Sensors, Windows Forms
+- Speaker at APPFORUM conferences in the Americas and EMEA
+- Third-party application developer support
 
 ### Fiat Chrysler
 
@@ -129,15 +134,19 @@ Development of ProVision™ shovel machine guidance system
 
 ## Senior Software Engineer at Unisys (2001 to 2002)
 
-- Security and Access Control application for SEFAZ-PE
+- Software requirements, design and development of security and access control, and other web applications
   - DB2, HTML, J2EE, Java, JavaScript, UML
 
 ## Senior Software Engineer at ITECI (2000 to 2001)
 
-- Web applications for Storm Consulting, London
+- Web applications, Storm Consulting, London
   - HTML, JavaScript, VB 6, XSLT
 
-- XML Course for BCP
+- LINC II Course Instructor, Bompreço, Recife
+
+- XML Course Instructor, BCP, Recife
+
+- Java Course Instructor
 
 - Banking applications for Caixa Economica Federal, Brasilia
   - ASP, Erwin, HTML, Java, JavaScript, Linux, PHP, SAP Sybase PowerDesigner, SQL Server, VB 6
@@ -147,42 +156,50 @@ Development of ProVision™ shovel machine guidance system
 
 ## Software Engineer at Enfase (1998 to 2000)
 
-- Banking Applications for Bandepe
+- Banking Applications, Bandepe
   - COBOL, LINC II, SQL Server, Unisys A Series, VB 6, Windows, XGEN
 
-- Client/Server application at Frigorifico Iberico
+- Client-server application, Frigorífico Ibérico
   - Crystal Reports, SQL Server, VB 6, Windows NT
 
 ## Software Engineer at Tata Infotech/Unisys (1996 to 1998)
 
-- Year 2000 consultancy at Bancafe, Bogota
-- Year 2000 renovation at Bompreço, Recife
-  - COBOL, LINC II, Unisys A Series
-- Year 2000 renovation at Toysrus, New Jersey
+- Year 2000 consultancy at Toysrus (New Jersey), Bompreço (Recife), and Bancafé (Bogota)
   - ALGOL, C, COBOL, LINC II, Unisys A Series, XGEN
+- DMS II course instructor
+- COBOL 74 course instructor
+
+## Student Instructor at RAIT (1995)
+
+- Organizer of TECHNOVATE 1996
+- Organizer of C programming workshop
+- C programming course instructor
 
 # Education and Courses
 
-- **WAVE Certified Integration Engineer** 2018, Motorola Solution
-- **Xamarin Forms: Build Native Cross-platform Apps with C#** 2018, Udemy
-- **Algorithms I** 2017, by Princeton University on Coursera
-- **[Machine Learning](#machine-learning)** June to July 2017, by Stanford University on Coursera
-- **Bachelor of Engineering in Electronics** 1992 to 1996, at Ramrao Adik Institute of Technology, University of Mumbai
+- **WAVE Certified Integration Engineer**, 2018, Motorola Solution
+- **Xamarin Forms: Build Native Cross-platform Apps with C#**, 2018, Udemy
+- **Algorithms I**, 2017, by Princeton University on Coursera
+- **[Machine Learning](#machine-learning)**, 2017, by Stanford University on Coursera
+- **New Trainee Program**, 1996, Tata Unisys
+- **Bachelor of Engineering in Electronics**, 1992-1996, RAIT, University of Mumbai
 
 # Languages
 
 - English
+- French (studied at school, lack fluency)
 - Hindi
-- [Portuguese](#brazilian-portuguese-proficiency)
+- [Portuguese](#portuguese-proficiency)
+- Spanish (studied when living in Colombia, lack fluency)
 
 # Attachments
-
-## Brazilian Portuguese Proficiency
-
-![Celpe-Bras Brazilian Portuguese Proficiency Certificate](media/celpebras/celpebras.jpg)
 
 ## Machine Learning
 
 ![Machine Learning by Stanford University on Coursera](media/coursera/6X2TRRELBHRW.png)
 
 Follow link to see [grade achieved](https://www.coursera.org/account/accomplishments/records/77XZA7ANSSHL).
+
+## Portuguese Proficiency
+
+![Celpe-Bras Brazilian Portuguese Proficiency Certificate](media/celpebras/celpebras.jpg)
