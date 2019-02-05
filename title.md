@@ -1,6 +1,6 @@
 ---
 title: "Devendra Kumar Tewari"
-subtitle: "Résumé"
+subtitle: "Curriculum Vitae"
 date: 2019-23-01
-tags: [resume, c#, java, ios, android, git, github]
+tags: [cv, c#, java, ios, android, git, github]
 ...
