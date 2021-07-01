@@ -1,6 +1,6 @@
 # Contacts
 
-- [Email](mailto:devendra.tewari@gmail.com)
+- [devendra.tewari@gmail.com](mailto:devendra.tewari@gmail.com)
 - [GitHub](https://github.com/tewarid)
 - [LinkedIn](https://www.linkedin.com/in/tewarid/)
 - [Twitter](https://twitter.com/tewaridk)
@@ -9,7 +9,41 @@
 
 ## Software Engineering Specialist at CESAR (2010 to Present)
 
-### Motorola Solutions
+Organizational activities at [CESAR](https://english.cesar.org.br) such as pre-sales and technical interviews, and projects detailed below.
+
+### Multinational technology company (2019 to Present)
+
+#### Embedded Linux firmware development (2020 to Present)
+
+- HomeKit ADK integration
+  - Create BitBake layer to integrate with HomeKit
+  - Expose accessory services and characteristics
+  - Linux, OpenEmbedded, Yocto Project, BitBake, Python, C, C++, clang, make, cmake, DBus, GLib, HomeKit ADK
+- Google Voice Assistant integration
+  - Integrate with on-device services
+  - Add GVA to Developer SDK and firmware image
+  - Test and fix performance issues
+  - Linux, OpenEmbedded, Yocto Project, BitBake, Python, C, C++, clang, make, cmake, gRPC, ProtoBuf, DBus, GLib
+
+### Firmware updater for Windows (2019 to 2020)
+
+- Updater maintenance
+  - Add support for new devices
+  - Add support for new languages in installer
+  - Enhance automated build system
+  - C, C#, C++, InstallShield, Jenkins, USB drivers, Visual Studio 2019, Windows API, Windows Forms
+- New updater application prototype
+  - Over the air updates using Bluetooth RFCOMM
+  - C, C#, C++, C++/CLR, C++/WinRT, Fluent Design, UWP, Visual Studio 2019, XAML
+
+### Motorola Solutions (2010 to 2019)
+
+#### Edge Device for Cloud Integration
+
+- Device discovery
+- Location tracking
+- Web interface for device management
+- Angular, Apache Kafka, ASP.NET, BitBucket, C#, CSS, Docker, HTML, JavaScript, JFrog, Jira, Microsoft Azure, Node.js, OAuth 2.0, RedHat Linux
 
 #### UK Emergency Service Network
 
